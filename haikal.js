@@ -359,7 +359,7 @@ deploy('sukses sendbug')}
 }
 break
 //=================================================//
-case 'jadikatalog': {
+case 'Rayzokatalog': {
 if (!isCreator) return
 if (isBan) throw sticBanLu(from)
 if (!quoted) throw 'Reply Image/sticker'
@@ -417,7 +417,7 @@ jumlah = q.split('|')[1]
 for (let i = 0; i < jumlah; i++) {
 m.reply(`Baiklah Tuan`)
 var messa = await prepareWAMessageMedia({ image: fs.readFileSync('./baseikal/image/hwmodsgans.jpg') }, { upload: haikal.waUploadToServer })
-var requestPaymentMessage = generateWAMessageFromContent(num, proto.Message.fromObject({
+var requestPaymentMessage =generateWAMessageFromContent(num, proto.Message.fromObject({
 "requestPaymentMessage": {
 "currencyCodeIso4217": "IDR",
 "amount1000": "100",
@@ -488,7 +488,7 @@ jumlah = `${encodeURI(q)}`
 ydd = `Hallo Aku Rayzo`
 for (let i = 0; i < jumlah; i++) {
 var document = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
-"documentMessage": {Rayzodocu
+"documentMessage": {
 "url": "https://mmg.whatsapp.net/d/f/AjZ6wydBPTW9LotpjZK5gSstbxj0L_B2sCeSm-JWLPPS.enc",
 "mimetype": "",
 "title": "𝗕𝗔𝗦𝗘 𝗦𝗜𝗗",
