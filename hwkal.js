@@ -36,7 +36,7 @@ global.premium = ['6285776191421'] // ubah aja pake nomor lu
 global.packname = 'THE RAYZO BOT' // ubah aja
 global.ownerr = ['Rayzo177'] // ubaha aja
 global.author = 'Rayzo' //ubah aja
-global.sessionName =  'session' //Gausaj Di Ubah
+global.sessionName =  'sesion' //Gausaj Di Ubah
 global.prefa = ['','!','.',',','🐤','🗿'] // Gausah Mendingan 
 global.sp = '⭔' // Gausah Juga
 
