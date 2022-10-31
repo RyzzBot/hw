@@ -31,12 +31,12 @@ global.botname = 'THE RAYZO BOT' //ubah jadi nama bot mu, note tanda ' gausah di
 global.footer = 'Rayzo' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['6283837166690','6283111514019'] // ubah aja pake nomor lu
+global.owner = ['6283837166690','6285776191421'] // ubah aja pake nomor lu
 global.premium = ['6285776191421'] // ubah aja pake nomor lu
 global.packname = 'THE RAYZO BOT' // ubah aja
 global.ownerr = ['Rayzo177'] // ubaha aja
 global.author = 'Rayzo' //ubah aja
-global.sessionName =  'sesion' //Gausaj Di Ubah
+global.sessionName =  'seion' //Gausaj Di Ubah
 global.prefa = ['','!','.',',','🐤','🗿'] // Gausah Mendingan 
 global.sp = '⭔' // Gausah Juga
 
